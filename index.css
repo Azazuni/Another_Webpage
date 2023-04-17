@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+.header{
+    background-color: black;
+ 
+}
+
+.logo{
+    display: inline-block;
+    padding-top: 10px;
+}
+
+
+
+ul{
+    
+    height: 0px;
+    list-style: none;
+    padding-left: 1800px;
+    
+}
+
+li{
+    position: relative;
+    color: white;
+    float: left;
+    padding: 0px 20px;
+    font-size: 18px;
+    bottom: 50px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.mainimage{
+    position: relative;
+    bottom: 21px;
+}
+
+.mainimage{
+    position: relative;
+}
+
+.imgtext{
+
+    position: absolute;
+    top: 34%;
+    padding-left: 810px;
+    font-size: 50px;
+    color: white;
+}
+
+
+.cards{
+    
+    height: 1000px;
+    width: 100%;
+    display: inline-block;
+    
+    
+}
+
+.card{
+    position: relative;
+    top: 150px;
+    display: inline-block;
+    margin-left: 60px;
+    height: 800px;
+    width: 600px;
+    box-shadow: -1px 0 10;
+    border-radius: 2px;
+    background-color: rgb(15, 30, 56);
+
+}
+
+.card h1{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
+.card p{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+
+.footer{
+
+
+    background-color: black;
+    height: 120px;
+
+}
+.footer p{
+    color: white;
+    text-align: center;
+    padding-top: 55px;
+    font-size: 18px;
+}
